@@ -1,0 +1,5 @@
+#lombok:
+#  nonNull:
+#    exceptionType: [NullPointerException | IllegalArgumentException]
+server:
+  port: 8080
